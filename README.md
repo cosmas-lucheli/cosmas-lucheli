@@ -1,9 +1,13 @@
 ## Hi, i am Cosmas Lucheli 
 
 💻 Full-Stack develloper: Creating Mobile Applications and Websites in Nairobi,Kenya with Kotlin Jetpack Compose,Python e.t.c <br>
+
 Tech-Journey: I stated my coding journey in 2024 after finnishing my form four,now exploring projects with collaboration with the AI <br>
+
 Competition: I have participated in hackaton personally and also in group work and learned and gained alot in my friends<br>
+
 Let us connect to build an AI projects<br>
+
 Email: cosmastosh2@gmail.com<br>
 
 
